@@ -1,0 +1,11 @@
+p {
+  color: green;
+}
+
+#first-nav-link a {
+  color: red;
+}
+#first-nav-link a {
+  color: greenyellow;
+}
+/* later styles take precedence */
